@@ -1,1 +1,13 @@
 Vytvorenie aplikácie pre kamerový systém v inteligentnom dome
+
+Anotácia: Občas je dobré vidieť čo sa deje v dome alebo okolo domu. Skontrolovať záhradu, nazrieť do miestnosti čo robia deti a všeobecne či je všetko v poriadku. Montáž kamier je v poslednom čase veľmi častá záležitosť v rodinných domoch. Je to do určitej miery bezpečnostný prvok, ktorý nám dovoľuje vidieť, kontrolovať stav rodinného domu a jeho okolia. V inteligentnom dome sa ale kamery využívajú aj na niečo viac. Počas narušenia bezpečnosti máte obraz kamery okamžite v mobilnom telefóne alebo tablete nech ste kdekoľvek vo svete (podmienka-pripojenie na internet). A práve preto neoddeliteľnou súčasťou Inteligentného domu je používanie a spravovanie kamerového systému. Súčasťou kamerového systému bude aplikácia, ktorá dokáže priamo komunikovať s jadrom Inteligentného domu.
+Cieľ bakalárskej práce: Cieľom bakalárskej práce bude pomocou mikropočítača Arduino a IP kamier v prostredí , ktoré si zvolí študent navrhnúť aplikáciu, ktorá umožní používateľovi plynulo sledovať situáciu v okolí domu prostredníctvom internetového portálu alebo telefónu. 
+Charakter práce: 
+-	aplikačný.
+Požiadavky na obsah podľa charakteru práce: 
+-	aplikačný - popis riešeného problému, návrh systému/hardvérového riešenia a pod. (modely, ..), metodika vývoja/tvorby, implementácia, popis vytvoreného riešenia, testovanie
+ 
+Požiadavky na vedomosti a zručnosti študenta:
+•	znalosť anglického jazyka za účelom štúdia súvisiacej technickej dokumentácie
+•	znalosť programovacích jazykov (preferovaný je jazyk C, Java, PHP)
+•	znalosť problematiky mobilných aplikácií, webových aplikácií
