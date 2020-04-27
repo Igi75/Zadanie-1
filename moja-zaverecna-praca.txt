@@ -11,3 +11,5 @@ Požiadavky na vedomosti a zručnosti študenta:
 •	znalosť anglického jazyka za účelom štúdia súvisiacej technickej dokumentácie
 •	znalosť programovacích jazykov (preferovaný je jazyk C, Java, PHP)
 •	znalosť problematiky mobilných aplikácií, webových aplikácií
+
+2020/21
