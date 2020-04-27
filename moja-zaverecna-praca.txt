@@ -1,0 +1,1 @@
+Vytvorenie aplikácie pre kamerový systém v inteligentnom dome
